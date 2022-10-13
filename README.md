@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benocd
-- 👀 I’m interested in arduino, raspberry pi, data science, api development
+- 👀 I’m interested in arduino, raspberry pi, data science, api development, iot, automation
 - 🌱 I’m currently learning analogue electronics, biology
 - 💞️ I’m looking to collaborate on rural iot projects
 - 📫 How to reach me Twitter: @beno_cd
