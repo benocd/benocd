@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benocd
-- 👀 I’m interested in arduino, raspberry pi, data science, api development, iot, automation
-- 🌱 I’m currently learning science
-- 💞️ I’m looking to collaborate on rural iot projects
+- 👀 I’m interested in Automation, Science, AgTech, Hacking, building stuff with Open Source Development Boards
+- 🌱 I’m currently learning about microalgae
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me www.beno.cl
 
 <!---
