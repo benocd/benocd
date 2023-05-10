@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benocd
-- 👀 I’m interested in Automation, Science, AgTech, Hacking, building stuff with Open Source Development Boards
-- 🌱 I’m currently learning about microalgae
+- 👀 I’m interested in Automation, Science, AgTech, Hacking, Open Source, Microcontrollers, DIY electronics
+- 🌱 I’m currently learning about microalgae and carbon capture technologies
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me www.beno.cl
 
