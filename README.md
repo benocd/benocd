@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benocd
-- 👀 I’m interested in Automation, Science, AI, AgTech, Hacking, Microcontrollers, DIY electronics
+- 👀 I’m interested in Automation, Science, ML, AI, AgriTech, Hacking, Microcontrollers, DIY electronics
 - 🌱 I’m currently learning about microalgae and carbon capture technologies
 - 💞️ I’m looking to collaborate on open source and citizen science projects
 - 📫 How to reach me www.beno.cl
