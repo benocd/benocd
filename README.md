@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @benocd
-- 👀 I'm an IoT developer and Software Engineer specializing in hardware design and programming with microcontrollers. 
-- 🌱 I develop science-oriented tech solutions, particularly in plant biology and environmental sensing.
-- 💞️ I’m looking to collaborate on open source and citizen science projects
+- 👋 Hi, I'm @benocd
+- 👀 I'm a Software Engineer specialising in microcontroller-based hardware design. 
+- 🌱 I specialise in creating innovative tech solutions for plant biology and environmental sensing.
+- 💞️ I'm open to collaborating on open source and citizen-science projects.
 - 📫 How to reach me www.beno.cl
 
 <!---
